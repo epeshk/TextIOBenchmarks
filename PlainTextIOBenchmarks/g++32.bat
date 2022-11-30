@@ -1,0 +1,1 @@
+C:\msys64\mingw32.exe g++ %1 -static -O2 -o %2
